@@ -3,7 +3,7 @@
 ## Task Description
 
 The original task description is available here:
-![Task Description.pdf](https://github.com/Vadym-Al/InvoiceTask/blob/main/extra/Developer%20Interview%20Take-Home%20Task-2.pdf)
+[Task Description.pdf](https://github.com/Vadym-Al/InvoiceTask/blob/main/extra/Developer%20Interview%20Take-Home%20Task-2.pdf)
 
 ---
 
@@ -41,9 +41,11 @@ The original task description is available here:
 
 ```bash
 docker-compose up --build
+```
 
 ### Option 2: Run with Maven
 
 ```bash
 mvn clean install
 mvn spring-boot:run
+```
